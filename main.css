@@ -24,10 +24,31 @@ body {
   line-height: 1.6;
 }
 
-.container {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-rows: 80vh auto 40vw auto auto auto;
-      grid-template-rows: 80vh auto 40vw auto auto auto;
+.sidebas {
+  background-color: #009E74;
 }
-/*# sourceMappingURL=base.css.map */
+
+.header {
+  background-color: #007460;
+}
+
+.footer {
+  background-color: #101d2c;
+}
+
+.empreendedores {
+  background-color: #101d2c;
+}
+
+.story_pictures {
+  background-color: #009E74;
+}
+
+.story_content {
+  background-color: #f9f7f6;
+}
+
+.gallery {
+  background-color: #f9f7f6;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,29 @@
+
+.sidebas {
+    background-color: $color-primary;
+}
+.header {
+    background-color: $color-grey-dark-1;
+}
+.footer {
+    background-color: $color-secondary;
+}
+.empreendedores{
+    background-color: $color-secondary;
+}
+.features{
+}
+.story{
+    &_pictures{
+        background-color: $color-primary;
+    }
+    &_content{
+        background-color: $color-grey-light-1;
+    }
+}
+.projetos{
+
+}
+.gallery{
+    background-color: $color-grey-light-1;
+}
